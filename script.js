@@ -86,11 +86,11 @@ buttons.forEach(function(button) {
             else{ //only numA is full, so delete numA
                 numA = numA.slice(0, -1)
                 
-                if(numA === ''){ // if numB is empty show operator
-                    display.textContent = operatorHelper
+                if(numA === ''){ // if numA is empty show nothing
+                    display.textContent = ''
                 }
                 else{ // else show empty display
-                     display.textContent = ''
+                     display.textContent = numA
                 }
                
             }

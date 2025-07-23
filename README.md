@@ -1,47 +1,24 @@
 # Calculator
 
-A simple calculator web application built with JavaScript, HTML, and CSS. This project is part of The Odin Project curriculum and demonstrates basic DOM manipulation, event handling, and arithmetic operations.
+A simple web-based calculator built with JavaScript, HTML, and CSS. This project is my capstone project for front end development, demonstrating basic DOM manipulation, event handling, and arithmetic operations.
 
 ## Features
 
 - Addition, subtraction, multiplication, and division
-- Responsive UI for desktop and mobile
-- Clear and backspace functionality
-- Keyboard support (optional)
-
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/calculator.git
-   ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd calculator
-   ```
-3. **Open `index.html` in your browser.**
+- Clear and delete functionality
+- Responsive design for desktop and mobile
 
 ## Usage
 
-- Click the buttons to enter numbers and operators.
-- Press `=` to calculate the result.
-- Use `C` to clear the display.
-- Use `←` to delete the last digit.
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Use the calculator by clicking the buttons or using your keyboard (if supported).
 
-## Project Structure
+## Screenshot
 
-```
-calculator/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+![Calculator Screenshot](Screenshot_2025-07-23_18-11-12.png)
 
-## Credits
 
-Created as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
+## Getting Started
 
-## License
-
-This project is open source and available under the MIT License.
+No installation required. Just open the HTML file in your browser.
